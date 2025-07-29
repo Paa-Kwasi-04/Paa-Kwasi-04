@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paa-Kwasi-04
 - 👀 I’m interested in Control Systems Engineering, Embedded Systems, Machine Learning and Sports Analytics
 - 🌱 I’m currently studying Computer Engineering At Academic City University Ghana
-- 💞️ I’m looking to collaborate on python and C based projects of any kind with priority on my interest
+- 💞️ I’m looking to collaborate on python,C and C++ based projects of any kind with priority on my interest
 - 📫 How to reach me: email: paakwasi.owusu2023@gmail.com
 - 
 - 😄 Pronouns: he/him
