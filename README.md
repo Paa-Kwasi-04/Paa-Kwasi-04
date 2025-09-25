@@ -3,7 +3,6 @@
 - 🌱 I’m currently studying Computer Engineering At Academic City University Ghana
 - 💞️ I’m looking to collaborate on python,C and C++ based projects of any kind with priority on my interest
 - 📫 How to reach me: email: paakwasi.owusu2023@gmail.com
-- 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to play football and listen to music
 
