@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @Paa-Kwasi-04
-- 👀 I’m interested in Control Systems Engineering, Embedded Systems, Machine Learning and Sports Analytics
-- 🌱 I studied Bsc Computer Engineering At Academic City University Ghana
-- 💞️ I’m looking to collaborate on python,C and C++ based projects of any kind with priority on my interest
-- 📫 How to reach me: email: paakwasi.owusu2023@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to play football and listen to music
+# Hi, I'm Paa Kwasi 👋
 
-<!---
-Paa-Kwasi-04/Paa-Kwasi-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Computer Engineering graduate** with a background in **robotics, control systems, embedded systems, and PCB design**.
+
+I've worked on projects involving microcontrollers, sensors, automation, ROS2, C/C++, and hardware design. I also have an interest in **machine learning and data science**, which I plan to continue developing alongside my software engineering journey.
+
+Currently, I'm making a focused transition into **backend engineering**, primarily using **Go**. I'm building practical projects and developing my understanding of APIs, HTTP, concurrency, networking, data persistence, and backend system design.
+
+### Current Focus
+
+* Backend Engineering with Go
+* HTTP, APIs & networking
+* Concurrency & systems programming
+* Databases & data persistence
+* Machine Learning & Data Science
+* Embedded Systems & PCB Design
+
+### Tech
+
+**Backend & Programming**
+
+Go · Python · C/C++ · Git · HTTP · REST APIs
+
+**Embedded & Hardware**
+
+Arduino · ESP32 · ROS2 · KiCad · PCB Design · Sensors · Control Systems
+
+**Machine Learning & Data Science**
+
+Python · NumPy · Pandas · Scikit-learn
+
+### Projects
+
+I'm currently focused on building practical backend projects with **Go**, while continuing to build on my background in embedded systems and gradually developing my skills in machine learning.
+
+### Connect
+
+* 📧 Email: **[paakwasi.k.owusu@gmail.com](mailto:paakwasi.k.owusu@gmail.com)**
+* 💻 GitHub: **[@Paa-Kwasi-04](https://github.com/Paa-Kwasi-04)**
